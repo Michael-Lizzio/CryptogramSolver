@@ -35,43 +35,39 @@ The word lists used for matching are sourced from:
 
 ```plaintext
 Created by YATA Systems -- Say Hello to IGOR!!!
-MG SMT ZQUQ Z BWGQHFTL FQ Z CTTV CTP CFDG OFLWHGQ MG SMT ETGQ LTH ZQU Z BWGQHFTL PGOZFLQ Z CTTV CTPGDGP
-['BWGQHFTL', 'OFLWHGQ', 'PGOZFLQ', 'CTPGDGP', 'ETGQ', 'LTH', 'ZQUQ', 'CTTV', 'CFDG', 'FQ', 'SMT', 'CTP', 'ZQU', 'MG', 'Z']
-['BEHAVIOR', '', '', '', '', '', '', '', '', '', '', '', '', '', '']
-['COMPUTER', '', '', '', '', '', '', '', '', '', '', '', '', '', '']
-['CONSIDER', '', '', '', '', '', '', '', '', '', '', '', '', '', '']
-['CONSUMER', '', '', '', '', '', '', '', '', '', '', '', '', '', '']
-['CUSTOMER', '', '', '', '', '', '', '', '', '', '', '', '', '', '']
-['DAUGHTER', '', '', '', '', '', '', '', '', '', '', '', '', '', '']
-['DEMOCRAT', '', '', '', '', '', '', '', '', '', '', '', '', '', '']
-['DISCOVER', '', '', '', '', '', '', '', '', '', '', '', '', '', '']
-['HOSPITAL', '', '', '', '', '', '', '', '', '', '', '', '', '', '']
-['INDUSTRY', '', '', '', '', '', '', '', '', '', '', '', '', '', '']
-['MAJORITY', '', '', '', '', '', '', '', '', '', '', '', '', '', '']
-['PERSONAL', '', '', '', '', '', '', '', '', '', '', '', '', '', '']
-['PHYSICAL', '', '', '', '', '', '', '', '', '', '', '', '', '', '']
-['QUESTION', '', '', '', '', '', '', '', '', '', '', '', '', '', '']
-['QUESTION', 'MINUTES', '', '', '', '', '', '', '', '', '', '', '', '', '']
-['QUESTION', 'MINUTES', 'REMAINS', '', '', '', '', '', '', '', '', '', '', '', '']
-['QUESTION', 'MINUTES', 'REMAINS', 'FOREVER', '', '', '', '', '', '', '', '', '', '', '']
-['QUESTION', 'MINUTES', 'REMAINS', 'FOREVER', 'DOES', '', '', '', '', '', '', '', '', '', '']
-['QUESTION', 'MINUTES', 'REMAINS', 'FOREVER', 'DOES', 'NOT', '', '', '', '', '', '', '', '', '']
-['QUESTION', 'MINUTES', 'REMAINS', 'FOREVER', 'DOES', 'NOT', 'ASKS', '', '', '', '', '', '', '', '']
-['QUESTION', 'MINUTES', 'REMAINS', 'FOREVER', 'DOES', 'NOT', 'ASKS', 'FOOL', '', '', '', '', '', '', '']
-['QUESTION', 'MINUTES', 'REMAINS', 'FOREVER', 'DOES', 'NOT', 'ASKS', 'FOOL', 'FIVE', '', '', '', '', '', '']
-['QUESTION', 'MINUTES', 'REMAINS', 'FOREVER', 'DOES', 'NOT', 'ASKS', 'FOOL', 'FIVE', 'IS', '', '', '', '', '']
-['QUESTION', 'MINUTES', 'REMAINS', 'FOREVER', 'DOES', 'NOT', 'ASKS', 'FOOL', 'FIVE', 'IS', 'WHO', '', '', '', '']
-['QUESTION', 'MINUTES', 'REMAINS', 'FOREVER', 'DOES', 'NOT', 'ASKS', 'FOOL', 'FIVE', 'IS', 'WHO', 'FOR', '', '', '']
-['QUESTION', 'MINUTES', 'REMAINS', 'FOREVER', 'DOES', 'NOT', 'ASKS', 'FOOL', 'FIVE', 'IS', 'WHO', 'FOR', 'ASK', '', '']
-['QUESTION', 'MINUTES', 'REMAINS', 'FOREVER', 'DOES', 'NOT', 'ASKS', 'FOOL', 'FIVE', 'IS', 'WHO', 'FOR', 'ASK', 'HE', '']
-['QUESTION', 'MINUTES', 'REMAINS', 'FOREVER', 'DOES', 'NOT', 'ASKS', 'FOOL', 'FIVE', 'IS', 'WHO', 'FOR', 'ASK', 'HE', 'A']
+BABNGDZB PTZCU UDWB WTHRSTY UDYMCRDZ CD COBRN VNDKYBW TZF BABNGDZB NBXMUBU CD KBYRBAB RZ WTHRS.
+['BABNGDZB', 'KBYRBAB', 'NBXMUBU', 'VNDKYBW', 'COBRN', 'UDWB', 'UDYMCRDZ', 'PTZCU', 'TZF', 'CD', 'RZ', 'WTHRSTY', 'WTHRS']
+['EVERYONE', '', '', '', '', '', '', '', '', '', '', '', '']
+['EVERYONE', 'BELIEVE', '', '', '', '', '', '', '', '', '', '', '']
+['EVERYONE', 'BELIEVE', 'REFUSES', '', '', '', '', '', '', '', '', '', '']
+['EVERYONE', 'BELIEVE', 'REFUSES', 'PROBLEM', '', '', '', '', '', '', '', '', '']
+['EVERYONE', 'BELIEVE', 'REFUSES', 'PROBLEM', 'THEIR', '', '', '', '', '', '', '', '']
+['EVERYONE', 'BELIEVE', 'REFUSES', 'PROBLEM', 'THEIR', 'SOME', '', '', '', '', '', '', '']
+['EVERYONE', 'BELIEVE', 'REFUSES', 'PROBLEM', 'THEIR', 'SOME', 'SOLUTION', '', '', '', '', '', '']
+['EVERYONE', 'BELIEVE', 'REFUSES', 'PROBLEM', 'THEIR', 'SOME', 'SOLUTION', 'CANTS', '', '', '', '', '']
+['EVERYONE', 'BELIEVE', 'REFUSES', 'PROBLEM', 'THEIR', 'SOME', 'SOLUTION', 'CANTS', 'AND', '', '', '', '']
+['EVERYONE', 'BELIEVE', 'REFUSES', 'PROBLEM', 'THEIR', 'SOME', 'SOLUTION', 'CANTS', 'AND', 'TO', '', '', '']
+['EVERYONE', 'BELIEVE', 'REFUSES', 'PROBLEM', 'THEIR', 'SOME', 'SOLUTION', 'CANTS', 'AND', 'TO', 'IN', '', '']
+['EVERYONE', 'BELIEVE', 'REFUSES', 'PROBLEM', 'THEIR', 'SOME', 'SOLUTION', 'CANTS', 'AND', '', '', '', '']
+['EVERYONE', 'BELIEVE', 'REFUSES', 'PROBLEM', 'THEIR', 'SOME', 'SOLUTION', 'CANTS', 'AND', 'TO', '', '', '']
+['EVERYONE', 'BELIEVE', 'REFUSES', 'PROBLEM', 'THEIR', 'SOME', 'SOLUTION', 'CANTS', 'AND', 'TO', 'IN', '', '']
+['EVERYONE', 'BELIEVE', 'REFUSES', 'PROBLEM', 'THEIR', 'SOME', 'SOLUTION', 'WANTS', '', '', '', '', '']
+['EVERYONE', 'BELIEVE', 'REFUSES', 'PROBLEM', 'THEIR', 'SOME', 'SOLUTION', 'WANTS', 'AND', '', '', '', '']
+['EVERYONE', 'BELIEVE', 'REFUSES', 'PROBLEM', 'THEIR', 'SOME', 'SOLUTION', 'WANTS', 'AND', 'TO', '', '', '']
+['EVERYONE', 'BELIEVE', 'REFUSES', 'PROBLEM', 'THEIR', 'SOME', 'SOLUTION', 'WANTS', 'AND', 'TO', 'IN', '', '']
+['EVERYONE', 'BELIEVE', 'REFUSES', 'PROBLEM', 'THEIR', 'SOME', 'SOLUTION', 'WANTS', 'AND', 'TO', 'IN', 'MAGICAL', '']
+['EVERYONE', 'BELIEVE', 'REFUSES', 'PROBLEM', 'THEIR', 'SOME', 'SOLUTION', 'WANTS', 'AND', 'TO', 'IN', 'MAGICAL', 'MAGIC']
 Done ( ͡⎚ ͜ʖ ͡⎚)
-0-BWGQHFTL 1-OFLWHGQ 2-PGOZFLQ 3-CTPGDGP 4-ETGQ 5-LTH 6-ZQUQ 7-CTTV 8-CFDG 9-FQ 10-SMT 11-CTP 12-ZQU 13-MG 14-Z
-0-QUESTION 1-MINUTES 2-REMAINS 3-FOREVER 4-DOES 5-NOT 6-ASKS 7-FOOL 8-FIVE 9-IS 10-WHO 11-FOR 12-ASK 13-HE 14-A
+0-BABNGDZB 1-KBYRBAB 2-NBXMUBU 3-VNDKYBW 4-COBRN 5-UDWB 6-UDYMCRDZ 7-PTZCU 8-TZF 9-CD 10-RZ 11-WTHRSTY 12-WTHRS
+0-EVERYONE 1-BELIEVE 2-REFUSES 3-PROBLEM 4-THEIR 5-SOME 6-SOLUTION 7-WANTS 8-AND 9-TO 10-IN 11-MAGICAL 12-MAGIC
 
-crypto-quote - MG SMT ZQUQ Z BWGQHFTL FQ Z CTTV CTP CFDG OFLWHGQ MG SMT ETGQ LTH ZQU Z BWGQHFTL PGOZFLQ Z CTTV CTPGDGP
-  solution   - HE WHO ASKS A QUESTION IS A FOOL FOR FIVE MINUTES HE WHO DOES NOT ASK A QUESTION REMAINS A FOOL FOREVER
-Difference - 0:00:00.621482
+crypto-quote - BABNGDZB PTZCU UDWB WTHRSTY UDYMCRDZ CD COBRN VNDKYBW TZF BABNGDZB NBXMUBU CD KBYRBAB RZ WTHRS.
+  solution   - EVERYONE WANTS SOME MAGICAL SOLUTION TO THEIR PROBLEM AND EVERYONE REFUSES TO BELIEVE IN MAGIC.
+Difference - 0:00:00.340710
+
+Would you like to change any of the words? Enter the number of the word you would like to change, or 'no' to continue.
+no
+IGOR, was happy to help! (✯‿✯)
 ```
 
 ## Getting Started
